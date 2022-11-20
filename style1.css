@@ -1,0 +1,37 @@
+p, a, h1
+{
+	color: lime;
+	font-size: 14pt;
+	font-family: Copperplate Gothic Light
+}
+
+body
+
+{
+	color: cyan;
+	background-color; yellow;
+}
+
+img
+{
+	content; url("znakikarty.webp");
+	width: 400px;
+	border: 10px;
+}
+
+#id
+{
+	font-size: 18pt;
+	font-weight: bold;
+}
+
+.small
+{
+	font-size; 10pt;
+	font-style: italic;
+}
+
+img
+{
+	content: url("znakikarty.webp");
+}
