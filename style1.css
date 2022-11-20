@@ -23,7 +23,7 @@ img
 {
 	font-size: 18pt;
 	font-weight: bold;
-	color: black;
+	
 }
 
 .small
@@ -37,4 +37,9 @@ img.
 	content: url("znakikarty.webp");
 }
 
-
+b
+{
+	color: black;
+	font-size: 18pt;
+	font-family: Copperplate Gothic Light
+}
