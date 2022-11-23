@@ -9,7 +9,7 @@ body
 
 {
 	color: 3366FF;
-	background-color; yellow;
+	background-color: silver;
 }
 
 img
@@ -43,3 +43,20 @@ c
 	font-size: 18pt;
 	font-family: Copperplate Gothic Light
 }
+
+
+li span {
+  background: silver;
+}
+
+
+
+
+
+
+
+
+
+
+
+
