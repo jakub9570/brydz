@@ -1,6 +1,6 @@
 p, a, h1
 {
-	color:red ;
+	color: white ;
 	font-size: 14pt;
 	font-family: Copperplate Gothic Light
 }
@@ -10,13 +10,22 @@ body
 {
 	color: 3366FF;
 	background-color: 3366FF;
+	background-image: url("green.jpg");
+	
+}
+
+img{
+	background-image: url("green.jpg");
+	opacity: 10;
 }
 
 img
 {
-	content; url("znakikarty.webp");
-	width: 400px;
+	content: url("brydz.jpg");
+	width: 300px;
 	border: 10px;
+	opacity: 10;
+	
 }
 
 #id
@@ -28,14 +37,12 @@ img
 
 .small
 {
-	font-size; 10pt;
+	font-size: 10pt;
 	font-style: italic;
 }
 
-img.
-{
-	content: url("znakikarty.webp");
-}
+
+
 
 c
 {
@@ -47,7 +54,21 @@ c
 
 li span {
   background: silver;
+  
 }
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#title
+
+{
+	color:aqua;
+}
+
 
 
 
